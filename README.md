@@ -1,6 +1,9 @@
 # MawsemElezz
 Mawsem elezz is an application used for displaying results and reports of the accounting system .
 there are more than 4 reports of the stock management like (stores management reports ,items states reports)
+Certificate of deporting items from Stores to Fairs
+Monitoring the general balance of the company .
+
 ![Simulator Screen Shot - iPhone 8 Plus - 2022-03-30 at 15 12 47](https://user-images.githubusercontent.com/49006734/235168783-12b92fbb-1026-4cad-9612-f767604b1078.png)
 ![Simulator Screen Shot - iPhone 8 Plus - 2022-03-30 at 15 12 38](https://user-images.githubusercontent.com/49006734/235168796-c7bf901c-213d-437e-a546-f7342a0579d2.png)
 ![Simulator Screen Shot - iPhone 8 Plus - 2022-03-30 at 15 12 30](https://user-images.githubusercontent.com/49006734/235168803-f8f14e21-282a-4e10-a399-2d370ed1d83e.png)
